@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello
 
+I'm currently studying at Sapienza University of Rome.
 <!--
 **Arielxbp/Arielxbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
